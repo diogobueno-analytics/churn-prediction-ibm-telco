@@ -1,4 +1,4 @@
-## IBM Telco - Churn Prediction
+## IBM Telco - Churn Prediction (EM DESENVOLVIMENTO)
 
 Este projeto foi desenvolvido com foco no desenvolvimento do meu portfólio de análise de dados, demonstrando minhas habilidades em Análise Exploratória de Dados com Python e utilização de estatística e previsão de churn, para gerar esta previsão em uma base de clientes. 
 
