@@ -9,6 +9,8 @@ Utilizando-me de uma base de dados de cliente, com informações de contexto de 
     1. Quais clientes temos risco de perder? (churn)
     2. Porque temos riscos de perde-los?
 
+<img src="https://fenati.org.br/wp-content/uploads/2024/06/img-ibm-sofre-condenacao-milionaria-brasil.jpg" width="400"/>
+
 ### Etapas da Análise
 
 - Importação de bibliotecas e carregamento dos dados
