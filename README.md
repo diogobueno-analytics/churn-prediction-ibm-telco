@@ -17,7 +17,6 @@ Utilizando-me de uma base de dados de cliente, com informações de contexto de 
 - Limpeza, tratamento e preparação
 - Análise Exploratória de Dados (EDA)
 - Aplicar os metodos de previsão
-- Aplicar SHAP para entendimento dos motivos de churn.
 - Conclusões 
 
 ### Tecnologias Utilizadas
